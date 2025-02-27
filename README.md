@@ -13,7 +13,7 @@ Este projeto é um exercício solicitado pelo professor, onde será exibido um t
 ### 1️⃣ Clonar o repositório
 
 ```sh
- git clone <URL_DO_REPOSITORIO>
+ git clone https://github.com/mtsSAraujo/ExercicioTabuleiroJS.git
 ```
 
 ### 2️⃣ Acessar a pasta do projeto
